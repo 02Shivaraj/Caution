@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("Enter the range: ");
+    printf("Enter range: ");
     int a;
     scanf("%d",&a);
     int flag=0,count=0;
